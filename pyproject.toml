@@ -1,0 +1,16 @@
+[project]
+name = "goit-pyweb20-hw02"
+version = "0.1.0"
+description = "homework02 task01"
+authors = [
+    {name = "Vitaliy Ivaskiv",email = "vitalik.ivaskiv88@gmail.com"}
+]
+license = "gpl))"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
